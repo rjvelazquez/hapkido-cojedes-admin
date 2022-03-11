@@ -1,0 +1,16 @@
+#Registrar_Atleta.php
+#header.php
+#login.php
+#home.php
+add  #marquee.php
+#reporte-INDEPORTES.php
+#Reporte.php
+#modificar.php
+#List.php
+#form_mod.php
+#Enviar.php
+add #soporte.php
+#css/style.css
+
+
+debo modificar la clave de usuario de la db

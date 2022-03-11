@@ -1,0 +1,1 @@
+<marquee><h1 style="font-size:24px">Bienvenido(a) a HCA, Sr(a). <span><?php echo $_SESSION['name'];?>, del Club Hapkido <?php echo $_SESSION['club'];?>! </span></h1></marquee>
